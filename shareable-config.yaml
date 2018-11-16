@@ -145,7 +145,6 @@ rules:
   prefer-promise-reject-errors: [error]
   radix: [error, always]
   require-await: [error]
-  require-unicode-regexp: [error]
   vars-on-top: [error]
   wrap-iife: [error, inside, { functionPrototypeMethods: true }]
   yoda: [error, never]
